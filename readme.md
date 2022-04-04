@@ -1,4 +1,4 @@
-﻿# Desenvolvimento de Plataforma BI para Monitoramento de Performance de Usinas Solares Fotovoltaicas
+﻿# Desenvolvimento_de_Plataforma_BI_para_Monitoramento_de_Performance_de_Usinas_Solares_Fotovoltaicas
 
 #### Aluno: [Jun Fujise](https://github.com/jfujise94)
 #### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC)
